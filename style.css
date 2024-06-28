@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.color {
+    color: black;
+}
+
+.features {
+    background-color: rgba(255, 255, 255, 0.8); 
+}
+
+.main-section {
+    background: url('fondo.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.features {
+    background-color: #f8f9fa;
+}
+
+.features .col-md-4 {
+    margin-bottom: 30px;
+}
+
+.testimonials img {
+    width: 100px;
+    height: 100px;
+}
+
+.center ¨{
+    text-align: center;
+}
+
+.testimonials {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.register {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+footer {
+    background-color: #343a40;
+}
